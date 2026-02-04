@@ -9,7 +9,7 @@ import img6 from '../assets/univit.jpg';
 import img7 from '../assets/uniliv.jpg';
 import img8 from '../assets/uniheat.jpg';
 import img9 from '../assets/uniresp.jpg';
-import img10 from '../assets/sponge.jpg' 
+import img10 from '../assets/bro.jpg' 
 
 
 const Btn = () => {
@@ -23,7 +23,7 @@ const Btn = () => {
     { image: img7, name: 'UNILIV' },
     { image: img8, name: 'UNI-HEAT' },
     { image: img9, name: 'UNIRESP' },
-    { image: img10, name: 'SPONGE'}
+    { image: img10, name: 'What are you doing on 14th'}
   ];
 
   return (
