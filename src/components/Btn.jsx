@@ -8,6 +8,7 @@ import img5 from '../assets/unical.jpg';
 import img6 from '../assets/univit.jpg';
 import img7 from '../assets/uniliv.jpg';
 import img8 from '../assets/uniheat.jpg';
+import img9 from '../assets/uniresp.jpg';
 
 const Btn = () => {
   const products = [
@@ -19,6 +20,7 @@ const Btn = () => {
     { image: img6, name: 'UNIVIT' },
     { image: img7, name: 'UNILIV' },
     { image: img8, name: 'UNI-HEAT' },
+    { image: img9, name: 'UNIRESP' },
   ];
 
   return (
