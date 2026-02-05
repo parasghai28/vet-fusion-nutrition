@@ -8,7 +8,7 @@ import img5 from '../assets/unical.jpg';
 import img6 from '../assets/univit.jpg';
 import img7 from '../assets/uniliv.jpg';
 import img8 from '../assets/uniheat.jpg';
-import img9 from '../assets/uniresp.jpg';
+import img9 from '../assets/unirespn.png';
 
 
 const Btn = () => {
