@@ -9,6 +9,8 @@ import img6 from '../assets/univit.jpg';
 import img7 from '../assets/uniliv.jpg';
 import img8 from '../assets/uniheat.jpg';
 import img9 from '../assets/unirespn.png';
+import img10 from '../assets/uniresp-oil.jpeg';
+
 
 
 const Btn = () => {
@@ -21,7 +23,9 @@ const Btn = () => {
     { image: img6, name: 'UNIVIT' },
     { image: img7, name: 'UNILIV' },
     { image: img8, name: 'UNI-HEAT' },
-    { image: img9, name: 'UNIRESP' }
+    { image: img9, name: 'UNIRESP' },
+    { image: img10, name: 'UNIRESP-OIL' }
+
   ];
 
   return (
